@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm onionion</h1>
-<h3 align="center">Junior Informaton Technology Student</h3>
+<h3 align="center">Recent Graduate major in Informaton Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onionion&label=Profile%20views&color=0e75b6&style=flat" alt="onionion" /> </p>
 
-- 🔭 I’m currently working on **FreshVista**
+- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Web Technologies, Systems Architecture, Database System**
+- 🌱 I’m currently learning **Distributed System**
 
 - 📫 How to reach me **shuangxia987@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shuang-xia/](https://www.linkedin.com/in/shuang-xia/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/shuang-xia/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
